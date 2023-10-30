@@ -6,6 +6,10 @@ Certainly! Here's a basic structure for your README file based on the informatio
 
 This repository contains a Node.js application for managing books. It uses Express.js with Mongoose for database interaction and various middleware packages for functionalities.
 
+## Live API Endpoint
+
+You can access the live API [here](https://brewapps-task.onrender.com/).
+
 ## Dependencies
 
 The project uses the following dependencies, which are specified in the `package.json` file:
@@ -34,8 +38,6 @@ brewapps/
 ├── package-lock.json
 └── .env
 ```
-
-## Usage
 
 ### Setup
 
@@ -71,3 +73,9 @@ The application manages books and provides the following functionalities through
 ## Author
 
 Aayush Kasera
+
+## Explore More:
+
+- [GitHub Profile](https://github.com/TheAayushKasera)
+- [Portfolio](https://aayush-kasera-portfolio.onrender.com/)
+- [LinkedIn](https://www.linkedin.com/in/aayush-kasera/)
