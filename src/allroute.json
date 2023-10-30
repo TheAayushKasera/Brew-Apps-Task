@@ -1,0 +1,29 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/book",
+      "description": "Retrieve a list of all books"
+    },
+    {
+      "method": "GET",
+      "path": "/book/:id",
+      "description": "Get details of a specific book by ID"
+    },
+    {
+      "method": "POST",
+      "path": "/book",
+      "description": "Add a new book. Requires `title`, `author`, and `summary` in the request body"
+    },
+    {
+      "method": "PUT",
+      "path": "/book/:id",
+      "description": "Update details of a book by ID. Requires `title`, `author`, and `summary` in the request body"
+    },
+    {
+      "method": "DELETE",
+      "path": "/book/:id",
+      "description": "Delete a book by ID"
+    }
+  ]
+}
